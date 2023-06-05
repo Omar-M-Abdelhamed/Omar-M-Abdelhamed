@@ -2,10 +2,11 @@
 
 <h2> Data Analysis Projects:</h2>
 
+
+- <b>Customer Satisfaction</b>
+  - [airline-customer-satisfaction-analysis](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/airline-customer-satisfaction-analysis.ipynb)   
 - <b> Market Basket</b>
   - [market-basket-analysis-exploring-sales-trends](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/market-basket-analysis-exploring-sales-trends.ipynb)
-- <b>Customer Satisfaction</b>
-  - [airline-customer-satisfaction-analysis](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/airline-customer-satisfaction-analysis.ipynb)
 - <b>Predictive Analysis</b>
   - [income-classification](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/income-classification.ipynb)
   
