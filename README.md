@@ -1,25 +1,24 @@
-<h1>Hi, I'm Omar!</h1>
+# Hi, I'm Omar! 👋
 
-<h2> Data Analysis Projects:</h2>
+## Data Analysis Projects:
 
+- **Customer Satisfaction**
+  - [Airline Customer Satisfaction Analysis](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/airline-customer-satisfaction-analysis.ipynb)
 
-- <b>Customer Satisfaction</b>
-  - [airline-customer-satisfaction-analysis](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/airline-customer-satisfaction-analysis.ipynb)   
-- <b> Market Basket</b>
-  - [market-basket-analysis-exploring-sales-trends](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/market-basket-analysis-exploring-sales-trends.ipynb)
-- <b>Predictive Analysis</b>
-  - [income-classification](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/income-classification.ipynb)
-  
+- **Market Basket**
+  - [Market Basket Analysis: Exploring Sales Trends](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/market-basket-analysis-exploring-sales-trends.ipynb)
 
+- **Predictive Analysis**
+  - [Income Classification](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/income-classification.ipynb)
 
-<h2> 🤳 Connect with me:</h2>
+## 🤝 Connect with me:
 
-[<img align="left" alt="Omar-M-Abdelhamed | Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" />][kaggle]
-[<img align="left" alt="Omar-M-Abdelhamed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Kaggle" width="22px" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />][kaggle]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [kaggle]: https://www.kaggle.com/omarmohamed8
 [linkedin]: https://linkedin.com/in/Omar-M-Abdelhamed
+
 
 <!--
 
