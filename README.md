@@ -4,15 +4,17 @@
 
 - **Customer Satisfaction Analysis**
   - [Airline Customer Satisfaction Analysis](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/airline-customer-satisfaction-analysis.ipynb)
-    - Explore customer satisfaction in the airline industry.
+    - Gain valuable insights into customer satisfaction in the airline industry. Identify key factors influencing satisfaction and discover actionable recommendations for enhancing customer experiences and loyalty.
+
 
 - **Market Basket Analysis**
   - [Exploring Sales Trends through Market Basket Analysis](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/market-basket-analysis-exploring-sales-trends.ipynb)
-    - Discover sales trends and patterns using market basket analysis.
+    - Uncover valuable insights and patterns in sales data using association rules analysis. Discover cross-selling opportunities and optimize decision-making processes for business growth.
 
 - **Predictive Analysis**
   - [Income Classification](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/income-classification.ipynb)
-    - Predict and classify income levels based on various features.
+    - Predict individuals' income levels using demographic, education, and work-related attributes. Explore data preprocessing, model building, and evaluation techniques, and discover the best-performing Voting Classifier model with an accuracy of 86.1% on the testing set.
+
 
 
 
