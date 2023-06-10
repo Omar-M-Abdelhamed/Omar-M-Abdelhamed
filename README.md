@@ -1,15 +1,20 @@
 # Hi, I'm Omar! 👋
 
-## Data Analysis Projects:
+## 🚀 Data Analysis Projects
 
-- **Customer Satisfaction**
+- **Customer Satisfaction Analysis**
   - [Airline Customer Satisfaction Analysis](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/airline-customer-satisfaction-analysis.ipynb)
+    - Explore customer satisfaction in the airline industry.
 
-- **Market Basket**
-  - [Market Basket Analysis: Exploring Sales Trends](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/market-basket-analysis-exploring-sales-trends.ipynb)
+- **Market Basket Analysis**
+  - [Exploring Sales Trends through Market Basket Analysis](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/market-basket-analysis-exploring-sales-trends.ipynb)
+    - Discover sales trends and patterns using market basket analysis.
 
 - **Predictive Analysis**
   - [Income Classification](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/income-classification.ipynb)
+    - Predict and classify income levels based on various features.
+
+
 
 ## 🤝 Connect with me:
 
