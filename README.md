@@ -26,7 +26,18 @@
 [kaggle]: https://www.kaggle.com/omarmohamed8
 [linkedin]: https://linkedin.com/in/Omar-M-Abdelhamed
 
+<h2> 🛠 Languages and Tools:</h2>
 
+- Python
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- SQL
+- Git
+- GitHub
 <!--
 
 Here are some ideas to get you started:
