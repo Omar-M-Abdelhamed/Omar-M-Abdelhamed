@@ -14,6 +14,9 @@
 - **Predictive Analysis**
   - [Income Classification](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/income-classification.ipynb)
     - Predict individuals' income levels using demographic, education, and work-related attributes. Explore data preprocessing, model building, and evaluation techniques, and discover the best-performing Voting Classifier model with an accuracy of 86.1% on the testing set.
+  - [Predict Bike Rental Count](https://github.com/Omar-M-Abdelhamed/Data-analysis/blob/main/income-classification.ipynb)
+    - Comprehensive analysis of two-year bike rental data, revealing usage patterns, model selection, and insights. Notable findings include distinct behaviors between user types and potential redundancy in temperature variables. Valuable guidance for bike-sharing companies to optimize services and enhance predictive models.
+
 
 
 
